@@ -1,0 +1,1 @@
+"""LangChain-compatible stock tools."""
